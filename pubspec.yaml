@@ -1,0 +1,28 @@
+name: snack_bubble
+description: A modern, animated floating toast and notification bubble for Flutter with spring physics, progress bars, and swipe-to-dismiss.
+version: 0.0.1
+homepage: https://github.com/VishalBari007/snack_bubble
+repository: https://github.com/VishalBari007/snack_bubble
+issue_tracker: https://github.com/VishalBari007/snack_bubble/issues
+
+topics:
+  - toast
+  - notification
+  - snackbar
+  - animation
+  - ui
+
+environment:
+  sdk: ^3.11.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:

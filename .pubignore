@@ -1,0 +1,9 @@
+screenshot_*.png
+*.png
+.idea/
+.vscode/
+build/
+example/build/
+example/.dart_tool/
+.dart_tool/
+*.iml
