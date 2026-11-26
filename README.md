@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://pub.dev/packages/snack_bubble"><img src="https://img.shields.io/pub/v/snack_bubble.svg" alt="Pub Version"></a>
+  <a href="https://pub.dev/packages/snack_bubble/score"><img src="https://img.shields.io/pub/points/snack_bubble" alt="Pub Points"></a>
+  <a href="https://pub.dev/packages/snack_bubble"><img src="https://img.shields.io/pub/likes/snack_bubble" alt="Pub Likes"></a>
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.19+-02569B?logo=flutter&logoColor=white" alt="Flutter"></a>
   <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart&logoColor=white" alt="Dart"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
